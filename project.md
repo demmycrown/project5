@@ -6,7 +6,7 @@
 
 `sudo apt install mysql-cient`
 
-`CREATE DATABASE `test_database`;`
+`CREATE DATABASE test_database;`
 
 `sudo mysql -p`
 
